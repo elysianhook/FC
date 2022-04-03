@@ -1,5 +1,4 @@
-FC
-FC Is a Tool That Assists You With Your Da Hood Aim. Please keep in mind that any suspensions or actions taken against your account are not our responsibility.
+**FC Is a Tool That Assists You With Your Da Hood Aim. Please keep in mind that any suspensions or actions taken against your account are not our responsibility.**
 
 Terms of Service
 "Script" means our product we are selling.
